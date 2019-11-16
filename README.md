@@ -1,4 +1,4 @@
-# This is a test repo to for type checking JavaScript files and generate d.ts files
+# This is a test repo for type checking JavaScript files and generate d.ts files
 
 see: 
 - [vscode | Type checking JavaScript](https://code.visualstudio.com/docs/nodejs/working-with-javascript)
